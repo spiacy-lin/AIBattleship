@@ -5,7 +5,7 @@ namespace battle_ships {
     {
         static void Main(string[] args)
         {
-		
+		// Andrzeja versja
 		var TestOcean = new Ocean();
 		while(!TestOcean.DebugPutRandomlyShip(Square.Mark.CARRIER));
 		while(!TestOcean.DebugPutRandomlyShip(Square.Mark.BATTLESHIP));
