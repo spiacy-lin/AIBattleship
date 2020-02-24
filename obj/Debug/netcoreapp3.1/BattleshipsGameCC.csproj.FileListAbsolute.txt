@@ -1,0 +1,11 @@
+/home/cool/AMremoteRepository/C#/AIBattleship/AIBattleship/bin/Debug/netcoreapp3.1/BattleshipsGameCC
+/home/cool/AMremoteRepository/C#/AIBattleship/AIBattleship/bin/Debug/netcoreapp3.1/BattleshipsGameCC.deps.json
+/home/cool/AMremoteRepository/C#/AIBattleship/AIBattleship/bin/Debug/netcoreapp3.1/BattleshipsGameCC.runtimeconfig.json
+/home/cool/AMremoteRepository/C#/AIBattleship/AIBattleship/bin/Debug/netcoreapp3.1/BattleshipsGameCC.runtimeconfig.dev.json
+/home/cool/AMremoteRepository/C#/AIBattleship/AIBattleship/bin/Debug/netcoreapp3.1/BattleshipsGameCC.dll
+/home/cool/AMremoteRepository/C#/AIBattleship/AIBattleship/bin/Debug/netcoreapp3.1/BattleshipsGameCC.pdb
+/home/cool/AMremoteRepository/C#/AIBattleship/AIBattleship/obj/Debug/netcoreapp3.1/BattleshipsGameCC.csprojAssemblyReference.cache
+/home/cool/AMremoteRepository/C#/AIBattleship/AIBattleship/obj/Debug/netcoreapp3.1/BattleshipsGameCC.AssemblyInfoInputs.cache
+/home/cool/AMremoteRepository/C#/AIBattleship/AIBattleship/obj/Debug/netcoreapp3.1/BattleshipsGameCC.AssemblyInfo.cs
+/home/cool/AMremoteRepository/C#/AIBattleship/AIBattleship/obj/Debug/netcoreapp3.1/BattleshipsGameCC.dll
+/home/cool/AMremoteRepository/C#/AIBattleship/AIBattleship/obj/Debug/netcoreapp3.1/BattleshipsGameCC.pdb

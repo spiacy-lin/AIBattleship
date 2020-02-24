@@ -1,2 +1,1 @@
-# battleship
-version with AI
+"# BattleshipsGameCC" 
