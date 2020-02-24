@@ -6,4 +6,5 @@ namespace battle_ships {
     //zastanowię się czy abstrakcyjna
     class Ship {
     }
+    //druga poprawka
 }
